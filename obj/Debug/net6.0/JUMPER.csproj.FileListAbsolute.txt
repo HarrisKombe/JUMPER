@@ -1,0 +1,15 @@
+/Users/harrismorgan/Desktop/JUMPER/bin/Debug/net6.0/JUMPER
+/Users/harrismorgan/Desktop/JUMPER/bin/Debug/net6.0/JUMPER.deps.json
+/Users/harrismorgan/Desktop/JUMPER/bin/Debug/net6.0/JUMPER.runtimeconfig.json
+/Users/harrismorgan/Desktop/JUMPER/bin/Debug/net6.0/JUMPER.dll
+/Users/harrismorgan/Desktop/JUMPER/bin/Debug/net6.0/JUMPER.pdb
+/Users/harrismorgan/Desktop/JUMPER/obj/Debug/net6.0/JUMPER.csproj.AssemblyReference.cache
+/Users/harrismorgan/Desktop/JUMPER/obj/Debug/net6.0/JUMPER.GeneratedMSBuildEditorConfig.editorconfig
+/Users/harrismorgan/Desktop/JUMPER/obj/Debug/net6.0/JUMPER.AssemblyInfoInputs.cache
+/Users/harrismorgan/Desktop/JUMPER/obj/Debug/net6.0/JUMPER.AssemblyInfo.cs
+/Users/harrismorgan/Desktop/JUMPER/obj/Debug/net6.0/JUMPER.csproj.CoreCompileInputs.cache
+/Users/harrismorgan/Desktop/JUMPER/obj/Debug/net6.0/JUMPER.dll
+/Users/harrismorgan/Desktop/JUMPER/obj/Debug/net6.0/refint/JUMPER.dll
+/Users/harrismorgan/Desktop/JUMPER/obj/Debug/net6.0/JUMPER.pdb
+/Users/harrismorgan/Desktop/JUMPER/obj/Debug/net6.0/JUMPER.genruntimeconfig.cache
+/Users/harrismorgan/Desktop/JUMPER/obj/Debug/net6.0/ref/JUMPER.dll
